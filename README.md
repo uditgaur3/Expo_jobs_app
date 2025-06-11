@@ -1,4 +1,5 @@
-# Mobile Profession Finder
+# Crossplatform Job Applying App
+iOS + Android
 
 Crafted using React Native (in pure JavaScript) for an internship task with Lokal, this project should not be reused for personal or commercial endeavors outside of its original assignment scope. This contemporary app, built with Expo, provides a sleek and dark-themed interface for job seekers to browse and track listings in style.
 
